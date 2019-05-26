@@ -35,7 +35,7 @@ __Statistical functions:__
     $ sudo apt install openjdk-8-jdk
     ```
 
-3. Install Apache Hadoop 2.7.7 following the tutorial: 
+3. Install Apache Hadoop 2.7.7 following the tutorial: [HADOOP_HDFS_INSTALLATION.md](HADOOP_HDFS_INSTALLATION.md).
 
 4. Clone the repository:
 
